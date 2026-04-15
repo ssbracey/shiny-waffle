@@ -18,6 +18,7 @@ from typing import Any
 
 import requests
 
+print("trying")
 
 BASE_URL = "https://api.themoviedb.org/3"
 
